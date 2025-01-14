@@ -512,7 +512,7 @@ func CursorUpTracker(g *gocui.Gui, v *gocui.View) error {
 	return nil
 }
 
-// scroll down logic gor peers view
+// scroll down logic for peers view
 func CursorDownPeers(g *gocui.Gui, v *gocui.View) error {
 	cx, cy := v.Cursor()
 	_, vy := v.Size()

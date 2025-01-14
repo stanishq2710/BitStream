@@ -24,7 +24,7 @@ func runApp() {
 
 	g.SetManagerFunc(t.Layout)
 	g.Highlight = true
-	g.Cursor = false
+	g.Cursor = true
 	g.SelFgColor = gocui.ColorGreen
 
 	if err := k.Keybindings(g); err != nil {
