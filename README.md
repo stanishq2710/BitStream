@@ -1,4 +1,4 @@
-# TBitTorrent
+# BitStream
 
 BitTorrent Client for terminal in Go. Written with [Gocui](https://github.com/jroimartin/gocui) and [rain](https://github.com/cenkalti/rain) library for my Final Year Project :D, Inspired by qbittorrent.
 
@@ -32,5 +32,5 @@ UPDATE:<br />
 - use `go run .` to run OR `go build .` to build
 
 ## warning
-- tbitorrent will crash if the window size is too small
+- BitStream will crash if the window size is too small
 
