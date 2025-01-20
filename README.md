@@ -1,6 +1,6 @@
 # BitStream
 
-BitTorrent Client for terminal in Go. Written with [Gocui](https://github.com/jroimartin/gocui) and [rain](https://github.com/cenkalti/rain) library for my Final Year Project :D, Inspired by qbittorrent.
+BitTorrent Client for terminal in Go. Written with [Gocui](https://github.com/jroimartin/gocui) and [rain](https://github.com/cenkalti/rain) library for my Btech Sem 5 project :D, Inspired by qbittorrent.
 
 
 ## Screenshot
